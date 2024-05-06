@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Sparsh-Logo1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>login.png</file>
+        <file>dark.qss</file>
+        <file>views/4.png</file>
+        <file>views/3.png</file>
+        <file>views/2.png</file>
+        <file>views/1.png</file>
+        <file>views/view_icon.png</file>
+        <file>overlay.qml</file>
+    </qresource>
+</RCC>

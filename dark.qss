@@ -1,0 +1,18 @@
+/* Set background color to dark gray for the main window */
+MainWindow {
+    background-color: #36454F;
+    color: #CCCCCC; /* Text color */
+}
+
+/* Set QPushButtons to have a specific background and text color */
+QPushButton {
+    background-color: #808080;
+    color: #FFFFFF;
+    border: 1px solid #666666;
+}
+
+/* Set the specific widget background to white */
+/*QDockWidget#sidebarWidget,
+QWidget#headerWidget {
+    background-color: #FFFFFF; /* White background color */
+}
